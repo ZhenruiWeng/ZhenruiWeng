@@ -6,6 +6,7 @@ Applied Mathematics undergraduate (Y2) at **Xi'an Jiaotong-Liverpool University*
 - 🎯 Kaggle **Competitions Expert** — top 2.7% with a single-model FT-Transformer (rank 89/3,355, LB 0.95059)
 - 📦 Kaggle **Datasets Expert** — rank 274/11,981 · three bronze-medal datasets
 - 🔬 **SURF research fellow** — Bayesian physics-informed neural networks: uncertainty quantification and probabilistic trajectory modeling
+- 🧴 **L'Oréal Beauty Tech Hackathon** — built "SuiYan AI": label-free skin quantification (ITA° tone, wrinkle density, shine ratio) + RAG recommendation with anti-hallucination guardrails over a 23-SKU product base
 - Interests: uncertainty quantification · probabilistic modeling · tabular & time-series ML · physics-informed ML · AI for Science
 
 #### Tech Stack
@@ -18,6 +19,7 @@ Applied Mathematics undergraduate (Y2) at **Xi'an Jiaotong-Liverpool University*
 |---|---|
 | [March Machine Learning Mania 2026](https://github.com/ZhenruiWeng/Kaggle-March-Machine-Learning-Mania-2026) | Kaggle **Gold** (11/3,482) — XGB+LGB+LR ensemble, 19 features, time-series CV, seed blending |
 | [Student Health Risk — FT-Transformer](https://github.com/ZhenruiWeng/Kaggle-Student-Health-Risk-Prediction-top-2.7-rank-89-3-355-LB-0.95059) | Top 2.7% single model — PLR numerical embeddings, leak-free CV, fold-wise re-fitting |
+| [EV Purchase — 83-Engine Grand Prix Blend](https://github.com/ZhenruiWeng/Kaggle-EV-Purchase-Prediction-top-4.4-rank-158-3576) | Top 4.4% (158/3,576) — CPU-only 83-engine ensemble: probit normalization, nested Caruana hill climb, DeLong-verified gains, public LB 0.94659 |
 
 #### 🔬 Research — Physics-Informed & Bayesian ML
 
