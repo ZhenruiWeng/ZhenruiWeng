@@ -51,6 +51,7 @@ Applied Mathematics undergraduate (Y2) at **Xi'an Jiaotong-Liverpool University*
 | Project | Highlights |
 |---|---|
 | [Beyond R²: From a Skeptical Review to a Production System](https://github.com/ZhenruiWeng/beyond-r2-bmw-price-pipeline) | Three-act arc on one BMW pricing dataset — Act I: community review challenging a "93.5% R²" claim (exchange archived); Act II: leakage-free re-implementation, GroupKFold OOF 0.8904, honest fold mean 0.81 ± 0.10; Act III: 4-layer production system — SHA-256 lineage chain, small-sample-hardened PSI monitoring (3 simulated deployment weeks), ingestion validation, human-gated collection agent; honest split-scheme audit: 0.933 single-split vs 0.86 ± 0.16 near-dup-controlled |
+| [SuiYan AI — L'Oréal Beauty Tech Hackathon](https://github.com/ZhenruiWeng/suiyan-ai) | Label-free skin quantification (ITA° tone grading, wrinkle density, shine ratio) + RAG recommendation with anti-hallucination guardrails over a 23-SKU product base |
 | [TCM Herb Toxicity Prediction](https://github.com/ZhenruiWeng/tcm-herb-toxicity-prediction) | TF-IDF/SVD/K-Means semantic clustering + non-parametric hypothesis tests + RF/HGB baselines — statistically grounded negative results |
 | [ML Modeling RAG Assistant](https://github.com/ZhenruiWeng/ml-modeling-rag-assistant) | LangChain + Chroma + Qwen + Streamlit — grounded Q&A over a curated ML knowledge base |
 | [ML Experiments](https://github.com/ZhenruiWeng/machine-learning-experiments) | Bronze-medal Kaggle notebooks, tabular model benchmarks, CNN/PINN practice |
