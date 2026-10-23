@@ -2,6 +2,14 @@
 
 Applied Mathematics undergraduate (Y2) at **Xi'an Jiaotong-Liverpool University** (XJTLU), passionate about **machine learning, Bayesian deep learning, and physics-informed models**.
 
+<p align="center">
+  <a href="https://www.kaggle.com/zhenruiweng"><img src="https://img.shields.io/badge/Kaggle-Competitions_Gold_Medalist-FFBF00?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Competitions Gold Medalist"></a>
+  <a href="https://www.kaggle.com/zhenruiweng"><img src="https://img.shields.io/badge/Kaggle-Competitions_Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Competitions Expert"></a>
+  <a href="https://www.kaggle.com/zhenruiweng"><img src="https://img.shields.io/badge/Kaggle-Datasets_Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Datasets Expert"></a>
+  <a href="https://github.com/ZhenruiWeng/bpinn-rl-overtaking-system"><img src="https://img.shields.io/badge/SURF-Research_Fellow-7B2D43?style=flat-square" alt="SURF Research Fellow"></a>
+  <a href="https://github.com/ZhenruiWeng"><img src="https://img.shields.io/badge/XJTLU-BSc_Applied_Math-17324E?style=flat-square" alt="XJTLU BSc Applied Mathematics"></a>
+</p>
+
 - 🏆 Kaggle **Competitions Gold Medalist** (individual) — rank 11/3,482, March Machine Learning Mania 2026
 - 🎯 Kaggle **Competitions Expert** — top 2.7% with a single-model FT-Transformer (rank 89/3,355, LB 0.95059)
 - 📦 Kaggle **Datasets Expert** — rank 274/11,981 · three bronze-medal datasets
@@ -20,6 +28,7 @@ Applied Mathematics undergraduate (Y2) at **Xi'an Jiaotong-Liverpool University*
 | [March Machine Learning Mania 2026](https://github.com/ZhenruiWeng/Kaggle-March-Machine-Learning-Mania-2026) | Kaggle **Gold** (11/3,482) — XGB+LGB+LR ensemble, 19 features, time-series CV, seed blending |
 | [Student Health Risk — FT-Transformer](https://github.com/ZhenruiWeng/Kaggle-Student-Health-Risk-Prediction-top-2.7-rank-89-3-355-LB-0.95059) | Top 2.7% single model — PLR numerical embeddings, leak-free CV, fold-wise re-fitting |
 | [EV Purchase — 83-Engine Grand Prix Blend](https://github.com/ZhenruiWeng/Kaggle-EV-Purchase-Prediction-top-4.4-rank-158-3576) | Top 4.4% (158/3,576) — CPU-only 83-engine ensemble: probit normalization, nested Caruana hill climb, DeLong-verified gains, public LB 0.94659 |
+| [WiDS 2026 — Wildfire Survival Stack](https://github.com/ZhenruiWeng/WiDS-2026-Wildfire-Survival-Stack-rank-275-1754) | Top 15.7% (275/1,754) — small-sample survival modeling: 5 km distance-gated zone decoupling, three-model survival stack with seed bagging, IPCW censorship-safe calibration |
 
 #### 🔬 Research — Physics-Informed & Bayesian ML
 
