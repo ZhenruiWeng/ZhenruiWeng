@@ -42,6 +42,7 @@ Applied Mathematics undergraduate (Y2) at **Xi'an Jiaotong-Liverpool University*
 | Project | Highlights |
 |---|---|
 | [Beyond R²: Rigorous BMW Price Pipeline](https://github.com/ZhenruiWeng/beyond-r2-bmw-price-pipeline) | Leak-proof pipeline — GroupKFold, OOF evaluation, SHA-256 data versioning; reproduces a community "93.5% R²" claim to an honest 0.81 ± 0.10 |
+| [BMW Price Prediction — Production System](https://github.com/ZhenruiWeng/bmw-price-prediction-production-system) | MLOps on top of the leakage-free pipeline — SHA-256 lineage chain, small-sample-hardened PSI monitoring (3 simulated deployment weeks), ingestion validation, human-gated collection agent; honest split-scheme audit: 0.933 single-split vs 0.86 ± 0.16 near-dup-controlled |
 | [TCM Herb Toxicity Prediction](https://github.com/ZhenruiWeng/tcm-herb-toxicity-prediction) | TF-IDF/SVD/K-Means semantic clustering + non-parametric hypothesis tests + RF/HGB baselines — statistically grounded negative results |
 | [ML Modeling RAG Assistant](https://github.com/ZhenruiWeng/ml-modeling-rag-assistant) | LangChain + Chroma + Qwen + Streamlit — grounded Q&A over a curated ML knowledge base |
 | [ML Experiments](https://github.com/ZhenruiWeng/machine-learning-experiments) | Bronze-medal Kaggle notebooks, tabular model benchmarks, CNN/PINN practice |
