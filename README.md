@@ -4,14 +4,14 @@ Applied Mathematics undergraduate (Y2) at **Xi'an Jiaotong-Liverpool University*
 
 <p align="center">
   <a href="https://www.kaggle.com/zhenruiweng"><img src="https://img.shields.io/badge/Kaggle-Competitions_Gold_Medalist-FFBF00?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Competitions Gold Medalist"></a>
-  <a href="https://www.kaggle.com/zhenruiweng"><img src="https://img.shields.io/badge/Kaggle-Competitions_Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Competitions Expert"></a>
+  <a href="https://www.kaggle.com/zhenruiweng"><img src="https://img.shields.io/badge/Kaggle-Notebooks_Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Notebooks Expert"></a>
   <a href="https://www.kaggle.com/zhenruiweng"><img src="https://img.shields.io/badge/Kaggle-Datasets_Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Datasets Expert"></a>
   <a href="https://github.com/ZhenruiWeng/bpinn-rl-overtaking-system"><img src="https://img.shields.io/badge/SURF-Research_Fellow-7B2D43?style=flat-square" alt="SURF Research Fellow"></a>
   <a href="https://github.com/ZhenruiWeng"><img src="https://img.shields.io/badge/XJTLU-BSc_Applied_Math-17324E?style=flat-square" alt="XJTLU BSc Applied Mathematics"></a>
 </p>
 
 - 🏆 Kaggle **Competitions Gold Medalist** (individual) — rank 11/3,482, March Machine Learning Mania 2026
-- 🎯 Kaggle **Competitions Expert** — top 2.7% with a single-model FT-Transformer (rank 89/3,355, LB 0.95059)
+- 📓 Kaggle **Notebooks Expert** — 400+ upvotes · 200+ forks · community-featured notebooks (Laurent PINN, BMW pipeline, competition write-ups)
 - 📦 Kaggle **Datasets Expert** — rank 274/11,981 · three bronze-medal datasets
 - 🔬 **SURF research fellow** — Bayesian physics-informed neural networks: uncertainty quantification and probabilistic trajectory modeling
 - 🎖️ **Huashu Cup 2026 — National Second Prize** (math modeling) — TPE-tuned GBR GPU-demand forecasting (MAE 16.35, R² 0.891, honest MAPE 57.3%) + carbon-aware scheduling, storage MILP, offline+MPC solver (1420 s → 10.8 s at +1.16% cost); led ML modeling, all code & validation
