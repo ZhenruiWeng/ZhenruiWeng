@@ -38,6 +38,7 @@ Applied Mathematics undergraduate (Y2) at **Xi'an Jiaotong-Liverpool University*
 |---|---|
 | [BPINN + RL Overtaking System](https://github.com/ZhenruiWeng/bpinn-rl-overtaking-system) | SURF research — JAX/Flax BPINN, MC-Dropout uncertainty quantification, rolling-window closed-loop decision making |
 | [Laurent PINN — Singularity Splitting](https://github.com/ZhenruiWeng/laurent-pinn-mitigating-gradient-explosion) | Gradient-explosion fix — u(x) = MLP(x) + A/(x−x_s) with a hand-derived pole derivative; 120× error reduction vs vanilla PINN on a tan(x) singularity benchmark |
+| [Laurent PINN — Phase-Integral Singularity Discovery](https://github.com/ZhenruiWeng/laurent-pinn-phase-integral) | Blind pole discovery — the Osgood identity x + τ(u(x)) = x_s finds the singularity from the equation alone (no data, no initial guess); dominant balance fixes pole order & residue, Tukey biweight rejects wrong analytic-continuation branches (the 3π/2 trap), virtual-pole falsification for non-blowup solutions; generalizes across α = 1/3…2 with position error down to ~1e-6 |
 | [PINN Vehicle Trajectory Prediction](https://github.com/ZhenruiWeng/pinn-vehicle-trajectory-prediction) | Physics-informed trajectory prediction on NGSIM — dual data/physics losses, kinematic residual constraints |
 
 #### 📦 Curated Datasets — Kaggle Datasets Expert (3 bronze)
