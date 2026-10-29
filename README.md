@@ -14,6 +14,7 @@ Applied Mathematics undergraduate (Y2) at **Xi'an Jiaotong-Liverpool University*
 - 🎯 Kaggle **Competitions Expert** — top 2.7% with a single-model FT-Transformer (rank 89/3,355, LB 0.95059)
 - 📦 Kaggle **Datasets Expert** — rank 274/11,981 · three bronze-medal datasets
 - 🔬 **SURF research fellow** — Bayesian physics-informed neural networks: uncertainty quantification and probabilistic trajectory modeling
+- 🎖️ **Huashu Cup 2026 — National Second Prize** (math modeling) — TPE-tuned GBR GPU-demand forecasting (MAE 16.35, R² 0.891, honest MAPE 57.3%) + carbon-aware scheduling, storage MILP, offline+MPC solver (1420 s → 10.8 s at +1.16% cost); led ML modeling, all code & validation
 - 🧴 **L'Oréal Beauty Tech Hackathon** — built "SuiYan AI": label-free skin quantification (ITA° tone, wrinkle density, shine ratio) + RAG recommendation with anti-hallucination guardrails over a 23-SKU product base
 - Interests: uncertainty quantification · probabilistic modeling · tabular & time-series ML · physics-informed ML · AI for Science
 
@@ -29,6 +30,7 @@ Applied Mathematics undergraduate (Y2) at **Xi'an Jiaotong-Liverpool University*
 | [Student Health Risk — FT-Transformer](https://github.com/ZhenruiWeng/Kaggle-Student-Health-Risk-Prediction-top-2.7-rank-89-3-355-LB-0.95059) | Top 2.7% single model — PLR numerical embeddings, leak-free CV, fold-wise re-fitting |
 | [EV Purchase — 83-Engine Grand Prix Blend](https://github.com/ZhenruiWeng/Kaggle-EV-Purchase-Prediction-top-4.4-rank-158-3576) | Top 4.4% (158/3,576) — CPU-only 83-engine ensemble: probit normalization, nested Caruana hill climb, DeLong-verified gains, public LB 0.94659 |
 | [WiDS 2026 — Wildfire Survival Stack](https://github.com/ZhenruiWeng/WiDS-2026-Wildfire-Survival-Stack-rank-275-1754) | Top 15.7% (275/1,754) — small-sample survival modeling: 5 km distance-gated zone decoupling, three-model survival stack with seed bagging, IPCW censorship-safe calibration |
+| [Huashu Cup 2026 — Computing-Power Scheduling](https://github.com/ZhenruiWeng/Huashu-2026-Computing-Power-Scheduling-Second-Prize) | National Second Prize — TPE-tuned GBR GPU-demand forecasting (38-dim features, direct multi-step, MAE 16.35 / R² 0.891, honest MAPE 57.3%), carbon-aware Pareto scheduling (−93.2% carbon), Epigraph-linearized storage MILP, offline+MPC two-stage solver (1420 s → 10.8 s at +1.16% optimality cost) |
 
 #### 🔬 Research — Physics-Informed & Bayesian ML
 
